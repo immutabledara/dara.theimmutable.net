@@ -1,0 +1,6 @@
+{
+    "require": {
+        "web3p/ethereum-tx": "^0.4.3",
+        "web3p/rlp": "^0.3.4"
+    }
+}
